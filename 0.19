@@ -1,0 +1,10 @@
+Collecting pandas
+  Using cached pandas-1.3.4-cp310-cp310-win_amd64.whl (10.2 MB)
+Collecting numpy>=1.21.0
+  Using cached numpy-1.21.3-cp310-cp310-win_amd64.whl (14.0 MB)
+Collecting pytz>=2017.3
+  Using cached pytz-2021.3-py2.py3-none-any.whl (503 kB)
+Requirement already satisfied: python-dateutil>=2.7.3 in f:\5n\web_project-20211103t173507z-001\web_project\add\lib\site-packages (from pandas) (2.8.2)
+Requirement already satisfied: six>=1.5 in f:\5n\web_project-20211103t173507z-001\web_project\add\lib\site-packages (from python-dateutil>=2.7.3->pandas) (1.16.0)
+Installing collected packages: pytz, numpy, pandas
+Successfully installed numpy-1.21.3 pandas-1.3.4 pytz-2021.3
