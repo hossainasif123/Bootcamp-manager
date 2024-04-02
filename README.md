@@ -1,0 +1,1 @@
+The project is a web application built using Streamlit. It allows users to register for a Data Science Bootcamp, view their registration information, check their registration status, and provides administrative capabilities for managing registrations.
